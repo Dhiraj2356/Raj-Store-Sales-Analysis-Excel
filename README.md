@@ -14,13 +14,13 @@ The project demonstrates practical Excel skills commonly used in sales reporting
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - Source: Store sales dataset (provided in Excel format)
 - Data includes sales details such as product, category, region, quantity, and revenue
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 The following steps were performed in Excel:
 - Checked and handled missing (null) values  
 - Structured uneven and inconsistent data  
@@ -29,7 +29,7 @@ The following steps were performed in Excel:
 
 ---
 
-## 📊 Dashboard & Analysis
+##  Dashboard & Analysis
 - Created multiple Pivot Tables for sales analysis  
 - Built 6 Pivot Charts to visualize key metrics  
 - Combined all charts into a single dashboard sheet  
