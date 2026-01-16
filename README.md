@@ -16,7 +16,7 @@ The project demonstrates practical Excel skills commonly used in sales reporting
 
 ##  Dataset
 - Source: Store sales dataset (provided in Excel format)
-- Data includes sales details such as product, category, region, quantity, and revenue
+- Data includes sales details such as product, category, State, quantity, revenue etc.
 
 ---
 
@@ -42,7 +42,8 @@ The dashboard allows analysis by different dimensions such as product, category,
 ## Insights & Findings
 - Women are more likely to buy as compare to Male (64% Women)  
 - Maharashtra Karnataka are the top three States   
-- Adult Age group (21-49) is Max Contributing    
+- Adult Age group (21-49) is Max Contributing
+- Most purchases are concentrated in sizes S, M, and L across products
 - Amazon, Flipkart and Myntra are max contributing channels
 
 These insights can help business stakeholders focus on high-performing states , channels, and improve regional sales strategies.
