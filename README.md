@@ -39,7 +39,7 @@ The dashboard allows analysis by different dimensions such as product, category,
 
 ---
 
-Insights & Findings
+## Insights & Findings
 - Women are more likely to buy as compare to Male (64% Women)  
 - Maharashtra Karnataka are the top three States   
 - Adult Age group (21-49) is Max Contributing    
