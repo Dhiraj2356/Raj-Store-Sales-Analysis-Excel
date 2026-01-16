@@ -50,7 +50,7 @@ These insights can help business stakeholders focus on high-performing states , 
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - Microsoft Excel  
 - Data Cleaning & Structuring  
 - Pivot Tables & Pivot Charts  
@@ -59,12 +59,12 @@ These insights can help business stakeholders focus on high-performing states , 
 
 ---
 
-## 📷 Project Screenshots
+##  Project Screenshots
 Screenshots of the dashboard and pivot analysis are available in the `screenshots/` folder.
 
 ---
 
-## ✅ Key Learnings
+##  Key Learnings
 - Importance of clean and structured data before analysis  
 - Efficient use of Pivot Tables for summarizing large datasets  
 - Designing interactive dashboards for business users  
