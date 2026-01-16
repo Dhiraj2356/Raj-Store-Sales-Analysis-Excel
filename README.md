@@ -41,12 +41,10 @@ The dashboard allows analysis by different dimensions such as product, category,
 
 ## Insights & Findings
 - Women are more likely to buy as compare to Male (64% Women)  
-- Maharashtra Karnataka are the top three States   
+- Maharashtra, Karnataka and Uttar Pradesh are the top three States   
 - Adult Age group (21-49) is Max Contributing
 - Most purchases are concentrated in sizes S, M, and L across products
 - Amazon, Flipkart and Myntra are max contributing channels
-
-These insights can help business stakeholders focus on high-performing states , channels, and improve regional sales strategies.
 
 ---
 
@@ -59,14 +57,14 @@ These insights can help business stakeholders focus on high-performing states , 
 
 ---
 
-##  Project Screenshots
-Screenshots of the dashboard and pivot analysis are available in the `screenshots/` folder.
-
----
-
 ##  Key Learnings
 - Importance of clean and structured data before analysis  
 - Efficient use of Pivot Tables for summarizing large datasets  
-- Designing interactive dashboards for business users  
+- Designing interactive dashboards for business users
 
- 
+---
+
+##  Project Screenshots
+Screenshots of the dashboard and pivot analysis are available in the `screenshots/` folder.
+
+
