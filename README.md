@@ -53,18 +53,7 @@ The dashboard allows analysis by different dimensions such as product, category,
 - Data Cleaning & Structuring  
 - Pivot Tables & Pivot Charts  
 - Slicers for interactivity  
-- Data Analysis & Reporting  
+- Data Analysis & Reports 
 
----
-
-##  Key Learnings
-- Importance of clean and structured data before analysis  
-- Efficient use of Pivot Tables for summarizing large datasets  
-- Designing interactive dashboards for business users
-
----
-
-##  Project Screenshots
-Screenshots of the dashboard and pivot analysis are available in the `screenshots/` folder.
 
 
